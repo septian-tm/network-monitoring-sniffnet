@@ -41,22 +41,10 @@ Proyek ini bertujuan untuk melakukan **monitoring real-time terhadap lalu lintas
 
 ---
 
-## 📄 Laporan Proyek
-
-🗂️ `docs/laporan-proyek.pdf`  
-Berisi:
-- Latar belakang
-- Tujuan
-- Cara kerja Sniffnet
-- Studi kasus & hasil pengamatan
-- Evaluasi & potensi pengembangan
-
----
 
 ## 👨‍💻 Author
 
 **Septian Tri Mahendra**  
-NIM: 2211501453  
 Proyek Pemantauan Jaringan – 2025
 
 ---
